@@ -3,6 +3,6 @@
 using namespace std;
 
 int main() {
-    cout << "who ready to WINN" << endl;
+    cout << "who ready to WINN Luke has infiltrared cpp" << endl;
     return 0;
 }
